@@ -1,0 +1,27 @@
+.container{
+    background-size: auto;
+    background-color: rgb(152, 174, 159);
+    border: solid 3px black;
+    text-align: center;
+    width: 30%;
+    height: 20em;
+    margin: 5% 30%;
+}
+
+button{
+    background-color: rgba(85, 123, 86, 0.235);
+    margin-top: 10px;
+    width: 15%;
+    height: 30px;
+    border: solid 2px rgba(0, 0, 0, 0.261);
+    border-radius: 30%;
+}
+
+
+.form__label_friends{
+    margin-right: -33px;
+}
+
+.form__label_tip{
+    margin-right: 6px;
+}
